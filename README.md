@@ -2,9 +2,17 @@
 <h1 align="center">Hi 👋, I'm Maen Al-Njar</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
+<img align="right" alt="Coding" width="100%" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
+
+
 - 🌱 I’m currently learning **React.js ,Tailwind CSS ,Bootstrap**
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
+- 👨‍💻 All of my projects are available at [soon](soon)
+
+- 📫 How to reach me **maen.njarr@gmail.com**
+
+- 📄 Know about my experiences [soon](soon)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
