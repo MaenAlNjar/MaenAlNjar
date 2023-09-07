@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Maen Al-Njar</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
-
-
+<p align="center">
+  <img width="300" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" alt="Coding">
+</p>
 
 <br>
 
