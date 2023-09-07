@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  <img width="300" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" alt="Coding">
+  <img width="500" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Coding">
 </p>
 
 <br>
