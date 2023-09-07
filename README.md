@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **maen.njarr@gmail.com**
 
-- 📄 Know about my experiences [soon](soon)
 
 
 
